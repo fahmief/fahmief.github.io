@@ -38,7 +38,7 @@ section {
   min-height: 600px;
 }
 
-.about {
+section.about {
   min-height: 300px;
 }
 
